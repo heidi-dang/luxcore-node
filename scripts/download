@@ -6,7 +6,7 @@ root_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/.."
 platform=`uname -a | awk '{print tolower($1)}'`
 arch=`uname -m`
 version="5.3.0"
-url="https://github.com/lux-core/lux/releases/download"
+url="https://github.com/heidi-dang/lux/releases/download"
 tag="v5.3.0"
 
 if [ "${platform}" == "linux" ]; then
