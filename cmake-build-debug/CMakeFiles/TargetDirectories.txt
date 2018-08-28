@@ -1,3 +1,0 @@
-/home/k155/works/insight/litecore-node/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/k155/works/insight/litecore-node/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/k155/works/insight/litecore-node/cmake-build-debug/CMakeFiles/litecore_node.dir
