@@ -4,10 +4,10 @@
   "author": "BitPay <dev@bitpay.com>",
   "version": "3.1.11",
   "main": "./index.js",
-  "repository": "git://github.com/lux-core/luxcore-node.git",
-  "homepage": "https://github.com/lux-core/luxcore-node",
+  "repository": "git://github.com/heidi-dang/luxcore-node.git",
+  "homepage": "https://github.com/heidi-dang/luxcore-node",
   "bugs": {
-    "url": "https://github.com/lux-core/luxcore-node/issues"
+    "url": "https://github.com/heidi-dang/luxcore-node/issues"
   },
   "contributors": [
     {
